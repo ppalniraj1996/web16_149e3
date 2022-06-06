@@ -1,0 +1,10 @@
+{
+    "users":[
+    {
+        "id":1,
+        "role":"voter",
+        "name":"john",
+        "password":"1234"
+    }
+    ]
+}
